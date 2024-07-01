@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/1-OOP-Philosophy/1-OOP-Philosophy.iml" filepath="$PROJECT_DIR$/1-OOP-Philosophy/1-OOP-Philosophy.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-OOP-Encapsulation/2-OOP-Encapsulation.iml" filepath="$PROJECT_DIR$/2-OOP-Encapsulation/2-OOP-Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-OOP-Inheritance/3-OOP-Inheritance.iml" filepath="$PROJECT_DIR$/3-OOP-Inheritance/3-OOP-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-OOP-Polymorphism/4-OOP-Polymorphism.iml" filepath="$PROJECT_DIR$/4-OOP-Polymorphism/4-OOP-Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-Java.iml" filepath="$PROJECT_DIR$/OOP-Java.iml" />
     </modules>
   </component>
