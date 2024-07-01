@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76853bdf-22cb-4a88-aad6-6fc9bffeb5a5" name="Changes" comment="OOP-1 added">
+    <list default="true" id="76853bdf-22cb-4a88-aad6-6fc9bffeb5a5" name="Changes" comment="OOP-2 encapsulation added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-OOP-Philosophy/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-OOP-Philosophy/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-OOP-Philosophy/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-OOP-Philosophy/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +55,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Alper/IdeaProjects/OOP-Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Alper/IdeaProjects/OOP-Java/1-OOP-Philosophy/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Alper/IdeaProjects/OOP-Java/2-OOP-Encapsulation/src/Main.java",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,7 +84,7 @@
       <updated>1719579314338</updated>
       <workItem from="1719579315594" duration="413000" />
       <workItem from="1719683633920" duration="664000" />
-      <workItem from="1719821508786" duration="4795000" />
+      <workItem from="1719821508786" duration="7207000" />
     </task>
     <task id="LOCAL-00001" summary="OOP-1 added">
       <option name="closed" value="true" />
@@ -93,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719579603871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP-2 encapsulation added">
+      <option name="closed" value="true" />
+      <created>1719832047059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832047059</updated>
+    </task>
+    <task id="LOCAL-00003" summary="OOP-2 encapsulation added">
+      <option name="closed" value="true" />
+      <created>1719832100659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832100659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="OOP-1 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP-1 added" />
+    <MESSAGE value="OOP-2 encapsulation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP-2 encapsulation added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
