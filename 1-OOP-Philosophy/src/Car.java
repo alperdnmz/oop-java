@@ -5,6 +5,19 @@ public class Car {
     public int speed;
     public int price;
 
+    public Car(){
+        this.brand = "Marka GİRİLMEDİ!";
+        this.color = "Renk GİRİLMEDİ!";
+        this.model = "Model GİRİLMEDİ!";
+        this.speed = 0;
+        this.price = 0;
+    }
+
+    public Car(String brand, String model){
+        this.brand = brand;
+        this.model = model;
+    }
+
     public void speedUp(int increment){
         this.speed = this.speed + increment;
     }

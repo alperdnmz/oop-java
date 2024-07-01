@@ -4,12 +4,16 @@ public class Main {
     public static void main(String[] args) {
         Car car1 = new Car();
         Car car2 = new Car();
+        Car car3 = new Car();
+        Car car4 = new Car();
 
         car1.brand = "Audi";
         car2.brand = "Mercedes";
+        car3.brand = "BMW";
 
         car1.model = "A6";
         car2.model = "C180";
+        car3.model = "i520";
 
         car1.color = "Black";
         car2.color = "White";
@@ -22,5 +26,7 @@ public class Main {
 
         car1.printStates();
         car2.printStates();
+        car3.printStates();
+        car4.printStates();
     }
 }
