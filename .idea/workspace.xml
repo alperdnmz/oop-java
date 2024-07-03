@@ -4,36 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76853bdf-22cb-4a88-aad6-6fc9bffeb5a5" name="Changes" comment="OOP-4 Polymorphism added">
-      <change afterPath="$PROJECT_DIR$/2-OOP-Variables1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-OOP-Variables2/src/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-OOP-Variables2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-OOP-Variables2/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-OOP-PassingByValueOrReference/src/ArrayAsAReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-OOP-PassingByValueOrReference/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-OOP-PassingByValueOrReference/src/PassByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-OOP-Constructor/5-OOP-Constructor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-OOP-Constructor/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-OOP-Constructor/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-OOP-MethodOverloading/6-OOP-MethodOverloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-OOP-MethodOverloading/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-OOP-MethodOverloading/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-Encapsulation/OOP-Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-Inheritance/OOP-Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-Interface/OOP-Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-Interface/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-Polymorphism/OOP-Polymorphism.iml" afterDir="false" />
+    <list default="true" id="76853bdf-22cb-4a88-aad6-6fc9bffeb5a5" name="Changes" comment="basics of object oriented programming">
+      <change afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/src/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/src/SoldierCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/src/StudentCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/src/TeacherCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-OOP-Abstraction/src/BaseScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-OOP-Abstraction/src/ChildScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-OOP-Abstraction/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-OOP-Abstraction/src/MenScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-OOP-Abstraction/src/WomanScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-OOP-Interface/src/SmsLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-OOP-Encapsulation1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-OOP-Encapsulation1/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP-Encapsulation2/8-OOP-Encapsulation2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP-Encapsulation2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP-Encapsulation2/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP-Encapsulation2/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-OOP-Inheritance/9-OOP-Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-OOP-Inheritance/src/BaseSalaryCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-OOP-Inheritance/src/CashierSalaryCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-OOP-Inheritance/src/EngineerSalaryCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-OOP-Inheritance/src/ManagerSalaryCalculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-OOP-Encapsulation/2-OOP-Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-OOP-Variables1/2-OOP-Variables1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Encapsulation/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-OOP-Encapsulation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Encapsulation/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-OOP-Inheritance/3-OOP-Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3-OOP-Variables2/3-OOP-Variables2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-OOP-Inheritance/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Inheritance/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-OOP-Inheritance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Inheritance/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-OOP-Polymorphism/4-OOP-Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4-OOP-PassingByValueOrReference/4-OOP-PassingByValueOrReference.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-OOP-Polymorphism/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Polymorphism/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-OOP-Polymorphism/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Polymorphism/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Encapsulation/OOP-Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/10-OOP-Polymorphizm/10-OOP-Polymorphizm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Encapsulation/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Encapsulation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/OOP-Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11-OOP-Abstraction/11-OOP-Abstraction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Interface/OOP-Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12-OOP-Interface/12-OOP-Interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Interface/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/12-OOP-Interface/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Polymorphism/OOP-Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/7-OOP-Encapsulation1/7-OOP-Encapsulation1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Polymorphism/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Polymorphism/src/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +54,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,7 +100,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Alper/IdeaProjects/OOP-Java/6-OOP-MethodOverloading/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Alper/IdeaProjects/OOP-Java/12-OOP-Interface/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
@@ -114,7 +129,10 @@
       <workItem from="1719821508786" duration="17313000" />
       <workItem from="1719899434917" duration="5257000" />
       <workItem from="1719916532804" duration="2133000" />
-      <workItem from="1719918716158" duration="9114000" />
+      <workItem from="1719918716158" duration="11892000" />
+      <workItem from="1719941368959" duration="2540000" />
+      <workItem from="1719986604689" duration="4270000" />
+      <workItem from="1719991298759" duration="16407000" />
     </task>
     <task id="LOCAL-00001" summary="OOP-1 added">
       <option name="closed" value="true" />
@@ -164,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719838018951</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="basics of object oriented programming">
+      <option name="closed" value="true" />
+      <created>1719928128793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719928128793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +213,8 @@
     <MESSAGE value="OOP-2 encapsulation added" />
     <MESSAGE value="OOP-3 inheritance added" />
     <MESSAGE value="OOP-4 Polymorphism added" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP-4 Polymorphism added" />
+    <MESSAGE value="basics of object oriented programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics of object oriented programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

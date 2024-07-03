@@ -3,16 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-OOP-Philosophy/1-OOP-Philosophy.iml" filepath="$PROJECT_DIR$/1-OOP-Philosophy/1-OOP-Philosophy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-OOP-Polymorphizm/10-OOP-Polymorphizm.iml" filepath="$PROJECT_DIR$/10-OOP-Polymorphizm/10-OOP-Polymorphizm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-OOP-Abstraction/11-OOP-Abstraction.iml" filepath="$PROJECT_DIR$/11-OOP-Abstraction/11-OOP-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-OOP-Interface/12-OOP-Interface.iml" filepath="$PROJECT_DIR$/12-OOP-Interface/12-OOP-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-OOP-Variables1/2-OOP-Variables1.iml" filepath="$PROJECT_DIR$/2-OOP-Variables1/2-OOP-Variables1.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-OOP-Variables2/3-OOP-Variables2.iml" filepath="$PROJECT_DIR$/3-OOP-Variables2/3-OOP-Variables2.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-OOP-PassingByValueOrReference/4-OOP-PassingByValueOrReference.iml" filepath="$PROJECT_DIR$/4-OOP-PassingByValueOrReference/4-OOP-PassingByValueOrReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-OOP-Constructor/5-OOP-Constructor.iml" filepath="$PROJECT_DIR$/5-OOP-Constructor/5-OOP-Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-OOP-MethodOverloading/6-OOP-MethodOverloading.iml" filepath="$PROJECT_DIR$/6-OOP-MethodOverloading/6-OOP-MethodOverloading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Encapsulation/OOP-Encapsulation.iml" filepath="$PROJECT_DIR$/OOP-Encapsulation/OOP-Encapsulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Inheritance/OOP-Inheritance.iml" filepath="$PROJECT_DIR$/OOP-Inheritance/OOP-Inheritance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Interface/OOP-Interface.iml" filepath="$PROJECT_DIR$/OOP-Interface/OOP-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-OOP-Encapsulation1/7-OOP-Encapsulation1.iml" filepath="$PROJECT_DIR$/7-OOP-Encapsulation1/7-OOP-Encapsulation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-OOP-Encapsulation2/8-OOP-Encapsulation2.iml" filepath="$PROJECT_DIR$/8-OOP-Encapsulation2/8-OOP-Encapsulation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-OOP-Inheritance/9-OOP-Inheritance.iml" filepath="$PROJECT_DIR$/9-OOP-Inheritance/9-OOP-Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-Java.iml" filepath="$PROJECT_DIR$/OOP-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Polymorphism/OOP-Polymorphism.iml" filepath="$PROJECT_DIR$/OOP-Polymorphism/OOP-Polymorphism.iml" />
     </modules>
   </component>
 </project>
